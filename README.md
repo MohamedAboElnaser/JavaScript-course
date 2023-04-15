@@ -1,8 +1,9 @@
 # `Javascript course` 
 
-```
+ 
 This repo contains the assignment and tasks of [JavaScript Bootcamp ]([https://](https://elzero.org/study/javascript-bootcamp-2021-study-plan/)) 
-```
+
+ 
 
 ![logo](Elzero.png)
 
