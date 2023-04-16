@@ -1,0 +1,70 @@
+/*
+  Number
+  - Double Precision
+  - Syntactic Sugar "_"
+  - e
+  - **
+  - With Decimal
+  - Number + BigInt
+  - Number Min Value
+  - Number Max Value
+*/
+
+/*
+  Number Methods
+  - Two Dots To Call A Methods
+  - toString()
+  - toFixed()
+  - parseInt()
+  - parseFloat()
+  - isInteger() [ES6]
+  - isNaN() [ES6]
+*/
+
+/*
+  Math Object
+  - round()
+  - ceil()
+  - floor()
+  - min()
+  - max()
+  - pow()
+  - random()
+  - trunc() [Es6]
+*/
+
+========================
+/*
+  String Methods
+  - Access With Index []
+  - Access With charAt()
+  - length
+  - trim()
+  - toUpperCase()
+  - toLowerCase()
+  - Chain Methods
+*/
+/*
+  String Methods
+  - Access With Index
+  - Access With charAt()
+  - length
+  - trim()
+  - toUpperCase()
+  - toLowerCase()
+  - Chain Methods
+*/
+
+/*
+  String Methods
+  - substring(Start [Mand], End [Opt] Not Including End)
+  --- Start > End Will Swap
+  --- Start < 0 It Start From 0
+  --- Use Length To Get Last Character
+  - substr(Start [Mand], Characters To Extract)
+  --- Start >= Length = ""
+  --- Negative Start From End
+  - includes(Value [Mand], Start [Opt] Default 0) [ES6]
+  - startsWith(Value [Mand], Start [Opt] Default 0) [ES6]
+  - endsWith(Value [Mand], Length [Opt] Default Full Length) [ES6]
+*/
