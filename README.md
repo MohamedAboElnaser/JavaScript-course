@@ -12,3 +12,4 @@ This repo contains the assignment and tasks of [JavaScript Bootcamp ]([https://]
 - [Week-two](week-2(data%20Types)/)
 - [Week-Four](week-4(number%26string)/)
 - [Week-five](week-5(flow%20control)/)
+- [Week-Six](week-6(Array)/)

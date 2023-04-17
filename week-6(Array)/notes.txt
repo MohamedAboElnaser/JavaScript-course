@@ -1,0 +1,39 @@
+/*
+  Arrays Methods [Adding And Removing]
+  - unshift("", "") Add Element To The First
+  - push("", "") Add Element To The End
+  - shift() Remove First Element From Array
+  - pop() Remove Last Element From Array
+*/
+
+/*
+  Arrays Methods [Search]
+  - indexOf(Search Element, From Index [Opt])
+  - lastIndexOf(Search Element, From Index [Opt])
+  - includes(valueToFind, fromIndex [Opt]) [ES7]
+*/
+
+/*
+  Arrays Methods [Sort]
+  - sort(Function [Opt])
+  - reverse
+*/
+
+
+/*
+  Arrays Methods [Slicing]
+  - slice(Start [Opt], End [Opt] Not Including End)
+  --- slice() => All Array
+  --- If Start Is Undefined => 0
+  --- Negative Count From End
+  --- If End Is Undefined || > Indexes => Slice To The End Array.length
+  --- Return New Array
+  - splice(Start [Mand], DeleteCount [Opt] [0 No Remove], The Items To Add [Opt])
+  --- If Negative => Start From The End
+*/
+
+/*
+  Arrays Methods [Joining]
+  - concat(array, array) => Return A New Array
+  - join(Separator)
+*/
