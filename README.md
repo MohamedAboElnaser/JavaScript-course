@@ -14,3 +14,4 @@ This repo contains the assignment and tasks of [JavaScript Bootcamp ]([https://]
 - [Week-five](week-5(flow%20control)/)
 - [Week-Six](week-6(Array)/)
 - [Week-Seven](week-7(Loops)/)
+- [Week-Eight](week-8(functions)/)
