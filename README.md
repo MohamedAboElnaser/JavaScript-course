@@ -16,3 +16,4 @@ This repo contains the assignment and tasks of [JavaScript Bootcamp ]([https://]
 - [Week-Seven](week-7(Loops)/)
 - [Week-Eight](week-8(functions)/)
 - [Week-Nine](week-9(functions-2)/)
+- [Week-Ten](week-10(Higher-Order-Functions)/) 
