@@ -18,3 +18,4 @@ This repo contains the assignment and tasks of [JavaScript Bootcamp](https://elz
 - [Week-Nine](week-9(functions-2)/)
 - [Week-Ten](week-10(Higher-Order-Functions)/) 
 - [Week-Eleven](week-11(object)/)
+- [Week-Twelve](week-12(DOM)/)
