@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.input {
+  margin: 10px;
+}
+.results {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.results .box {
+  width: calc(80% / 3);
+  background-color: orangered;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
