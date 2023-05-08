@@ -3,7 +3,7 @@
  
 This repo contains the assignment and tasks of [JavaScript Bootcamp](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) 
 
-![60%](https://progress-bar.dev/60/?title=soon🔜)
+![68%](https://progress-bar.dev/68/?title=soon🔜)
 
 ![logo](Elzero.png)
 
@@ -21,4 +21,5 @@ This repo contains the assignment and tasks of [JavaScript Bootcamp](https://elz
 - [Week-Twelve](week-12(DOM)/)
 - [Week-Thirteen](week-13(DOM-Events)/)
 - [week-Fourteen](week-14(BOM)/)
+- [Week-Fifteen](week-15(BOM-localStorage)/)
   
